@@ -1,7 +1,21 @@
-<<<<<<< HEAD
-# ExpenseTracker-
-Python Expense Tracker using SQLite
-=======
-# MenstrualTracker
-Python Menstrual Cycle Tracker
->>>>>>> 0977cfca941c7e3931b3e3bd68325fb2e87231f7
+# Menstrual Cycle Tracker
+
+A Python-based application that helps users track menstrual cycles, predict upcoming periods, estimate ovulation dates, and identify fertile windows.
+
+## Features
+
+* Period Prediction
+* Ovulation Date Calculation
+* Fertile Window Estimation
+* Cycle Phase Tracking
+* Personalized Health Insights
+
+## Technologies Used
+
+* Python
+* Datetime Module
+
+## Author
+
+Raitri Mallick
+
